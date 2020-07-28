@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">note</string>
+    <string name="title">标题</string>
+    <string name="content">内容</string>
+    <string name="empty">请填写内容</string>
+    <string name="no_empty">不可为空</string>
+</resources>
